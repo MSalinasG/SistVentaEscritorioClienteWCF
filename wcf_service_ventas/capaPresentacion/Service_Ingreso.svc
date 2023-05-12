@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="capaPresentacion.Service_Ingreso" CodeBehind="Service_Ingreso.svc.cs" %>

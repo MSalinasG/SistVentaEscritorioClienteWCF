@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70A93D5E-3FA1-45C8-B146-0E8773A4DF44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cliente_Venta</RootNamespace>
+    <AssemblyName>Cliente_Venta</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmVistaArticulo_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaArticulo_Categoria.Designer.cs">
+      <DependentUpon>frmVistaArticulo_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVistaArticulo_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVistaArticulo_Ingreso.Designer.cs">
+      <DependentUpon>FrmVistaArticulo_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVistaArticulo_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaArticulo_Venta.Designer.cs">
+      <DependentUpon>frmVistaArticulo_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVistaCliente_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaCliente_Venta.Designer.cs">
+      <DependentUpon>frmVistaCliente_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVistaProveedor_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVistaProveedor_Ingreso.Designer.cs">
+      <DependentUpon>FrmVistaProveedor_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Articulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Articulo.Designer.cs">
+      <DependentUpon>frm_Articulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ingreso.Designer.cs">
+      <DependentUpon>frm_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Principal.Designer.cs">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Venta.Designer.cs">
+      <DependentUpon>frm_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\ServiceArticulo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceCategoria\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceCliente\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceIngreso\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServicePresentacion\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceProveedor\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceR_Articulo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceTrabajador\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceVenta\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmVistaArticulo_Categoria.resx">
+      <DependentUpon>frmVistaArticulo_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVistaArticulo_Ingreso.resx">
+      <DependentUpon>FrmVistaArticulo_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVistaArticulo_Venta.resx">
+      <DependentUpon>frmVistaArticulo_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVistaCliente_Venta.resx">
+      <DependentUpon>frmVistaCliente_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVistaProveedor_Ingreso.resx">
+      <DependentUpon>FrmVistaProveedor_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Articulo.resx">
+      <DependentUpon>frm_Articulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ingreso.resx">
+      <DependentUpon>frm_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Principal.resx">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Venta.resx">
+      <DependentUpon>frm_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\ServiceArticulo\Service_Articulo.wsdl" />
+    <None Include="Service References\ServiceArticulo\Service_Articulo.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceArticulo\Service_Articulo1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceArticulo\Service_Articulo2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCategoria\ServiceCategoria.wsdl" />
+    <None Include="Service References\ServiceCategoria\Service_Categoria.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCategoria\Service_Categoria1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCategoria\Service_Categoria2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCliente\ServiceCliente.wsdl" />
+    <None Include="Service References\ServiceCliente\Service_Cliente.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCliente\Service_Cliente1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceCliente\Service_Cliente2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceIngreso\Service_Ingreso.wsdl" />
+    <None Include="Service References\ServiceIngreso\Service_Ingreso.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceIngreso\Service_Ingreso1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceIngreso\Service_Ingreso2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicePresentacion\Service_Presentacion.wsdl" />
+    <None Include="Service References\ServicePresentacion\Service_Presentacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicePresentacion\Service_Presentacion1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicePresentacion\Service_Presentacion2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceProveedor\Service_Proveedor.wsdl" />
+    <None Include="Service References\ServiceProveedor\Service_Proveedor.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceProveedor\Service_Proveedor1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceProveedor\Service_Proveedor2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceR_Articulo\Service_Articulo.wsdl" />
+    <None Include="Service References\ServiceR_Articulo\Service_Articulo.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceR_Articulo\Service_Articulo1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceR_Articulo\Service_Articulo2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceTrabajador\Service_Trabajador.wsdl" />
+    <None Include="Service References\ServiceTrabajador\Service_Trabajador.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceTrabajador\Service_Trabajador1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceTrabajador\Service_Trabajador2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceVenta\Service_Venta.wsdl" />
+    <None Include="Service References\ServiceVenta\Service_Venta.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceVenta\Service_Venta1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceVenta\Service_Venta2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServiceArticulo\" />
+    <WCFMetadataStorage Include="Service References\ServiceCategoria\" />
+    <WCFMetadataStorage Include="Service References\ServiceCliente\" />
+    <WCFMetadataStorage Include="Service References\ServiceIngreso\" />
+    <WCFMetadataStorage Include="Service References\ServicePresentacion\" />
+    <WCFMetadataStorage Include="Service References\ServiceProveedor\" />
+    <WCFMetadataStorage Include="Service References\ServiceR_Articulo\" />
+    <WCFMetadataStorage Include="Service References\ServiceTrabajador\" />
+    <WCFMetadataStorage Include="Service References\ServiceVenta\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceTrabajador\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceTrabajador\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceTrabajador\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\agregar_p.png" />
+    <None Include="Service References\ServiceR_Articulo\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceR_Articulo\configuration.svcinfo" />
+    <None Include="Service References\ServiceR_Articulo\configuration91.svcinfo" />
+    <None Include="Imagenes\report.png" />
+    <None Include="Imagenes\ventas_m.png" />
+    <None Include="Imagenes\archivo.png" />
+    <None Include="Imagenes\Box.png" />
+    <Content Include="Imagenes\Buscar_p.png" />
+    <None Include="Service References\ServiceCategoria\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceCategoria\configuration.svcinfo" />
+    <None Include="Service References\ServiceCategoria\configuration91.svcinfo" />
+    <None Include="Service References\ServicePresentacion\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServicePresentacion\configuration.svcinfo" />
+    <None Include="Service References\ServicePresentacion\configuration91.svcinfo" />
+    <None Include="Service References\ServiceArticulo\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceArticulo\configuration.svcinfo" />
+    <None Include="Service References\ServiceArticulo\configuration91.svcinfo" />
+    <None Include="Service References\ServiceProveedor\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceProveedor\configuration.svcinfo" />
+    <None Include="Service References\ServiceProveedor\configuration91.svcinfo" />
+    <None Include="Service References\ServiceIngreso\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceIngreso\configuration.svcinfo" />
+    <None Include="Service References\ServiceIngreso\configuration91.svcinfo" />
+    <None Include="Imagenes\file.png" />
+    <None Include="Imagenes\cancel.png" />
+    <None Include="Imagenes\compra_b.png" />
+    <None Include="Imagenes\comprasrealizadas.png" />
+    <None Include="Imagenes\door_in.png" />
+    <None Include="Imagenes\cog.png" />
+    <None Include="Imagenes\fondo.png" />
+    <Content Include="Imagenes\login.png" />
+    <None Include="Imagenes\productos_m1.png" />
+    <Content Include="Imagenes\Remove.png" />
+    <None Include="Service References\ServiceCliente\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceCliente\configuration.svcinfo" />
+    <None Include="Service References\ServiceCliente\configuration91.svcinfo" />
+    <None Include="Service References\ServiceVenta\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServiceVenta\configuration.svcinfo" />
+    <None Include="Service References\ServiceVenta\configuration91.svcinfo" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

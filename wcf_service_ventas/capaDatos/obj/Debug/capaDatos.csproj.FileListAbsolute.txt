@@ -1,0 +1,24 @@
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\OPERATIVO\Documents\Visual Studio 2015\Projects\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaDatos\obj\Debug\capaDatos.pdb

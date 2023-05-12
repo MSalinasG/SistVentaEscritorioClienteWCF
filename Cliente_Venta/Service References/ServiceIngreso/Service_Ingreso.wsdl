@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service_Ingreso" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:49617/Service_Ingreso.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:49617/Service_Ingreso.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:49617/Service_Ingreso.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService_Ingreso_Insertar_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_Insertar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_Anular_InputMessage">
+    <wsdl:part name="parameters" element="tns:Anular" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_Anular_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AnularResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_Mostrar_InputMessage">
+    <wsdl:part name="parameters" element="tns:Mostrar" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_Mostrar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MostrarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_BuscarFechas_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarFechas" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_BuscarFechas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarFechasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_MostrarDetalle_InputMessage">
+    <wsdl:part name="parameters" element="tns:MostrarDetalle" />
+  </wsdl:message>
+  <wsdl:message name="IService_Ingreso_MostrarDetalle_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MostrarDetalleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService_Ingreso">
+    <wsdl:operation name="Insertar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService_Ingreso/Insertar" message="tns:IService_Ingreso_Insertar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService_Ingreso/InsertarResponse" message="tns:IService_Ingreso_Insertar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Anular">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService_Ingreso/Anular" message="tns:IService_Ingreso_Anular_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService_Ingreso/AnularResponse" message="tns:IService_Ingreso_Anular_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Mostrar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService_Ingreso/Mostrar" message="tns:IService_Ingreso_Mostrar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService_Ingreso/MostrarResponse" message="tns:IService_Ingreso_Mostrar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarFechas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService_Ingreso/BuscarFechas" message="tns:IService_Ingreso_BuscarFechas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService_Ingreso/BuscarFechasResponse" message="tns:IService_Ingreso_BuscarFechas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MostrarDetalle">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService_Ingreso/MostrarDetalle" message="tns:IService_Ingreso_MostrarDetalle_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService_Ingreso/MostrarDetalleResponse" message="tns:IService_Ingreso_MostrarDetalle_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService_Ingreso" type="tns:IService_Ingreso">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Insertar">
+      <soap:operation soapAction="http://tempuri.org/IService_Ingreso/Insertar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Anular">
+      <soap:operation soapAction="http://tempuri.org/IService_Ingreso/Anular" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Mostrar">
+      <soap:operation soapAction="http://tempuri.org/IService_Ingreso/Mostrar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarFechas">
+      <soap:operation soapAction="http://tempuri.org/IService_Ingreso/BuscarFechas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MostrarDetalle">
+      <soap:operation soapAction="http://tempuri.org/IService_Ingreso/MostrarDetalle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service_Ingreso">
+    <wsdl:port name="BasicHttpBinding_IService_Ingreso" binding="tns:BasicHttpBinding_IService_Ingreso">
+      <soap:address location="http://localhost:49617/Service_Ingreso.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

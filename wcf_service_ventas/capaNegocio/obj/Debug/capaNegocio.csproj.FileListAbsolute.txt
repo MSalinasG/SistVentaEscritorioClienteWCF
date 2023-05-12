@@ -1,0 +1,37 @@
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaNegocio\obj\Debug\capaNegocio.pdb

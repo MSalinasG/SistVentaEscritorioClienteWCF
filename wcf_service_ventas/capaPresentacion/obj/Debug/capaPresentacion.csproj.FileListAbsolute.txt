@@ -1,0 +1,117 @@
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\ApplicationInsights.config
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll.config
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaNegocio.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaDatos.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaNegocio.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.xml
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\bin\capaDatos.pdb
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.dll
+c:\users\operativo\documents\visual studio 2015\Projects\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\ApplicationInsights.config
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll.config
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.pdb
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Desarrollo Ipartner\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\ApplicationInsights.config
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll.config
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.pdb
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\LAPTOP-MAICOL\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\ApplicationInsights.config
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll.config
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.xml
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.pdb
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.dll
+D:\Users\OPERATIVO\Documents\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\ApplicationInsights.config
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll.config
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaPresentacion.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaNegocio.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\bin\capaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\Maicol\Desktop\guardar-m\c# 2\GitHub\SisVentasDesk\ventas\wcf_service_ventas\capaPresentacion\obj\Debug\capaPresentacion.pdb
